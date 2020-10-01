@@ -1,0 +1,61 @@
+/*Theme Name: Toughest
+Author: Silver
+
+*/
+
+body {
+    background-color: white; 
+    margin: 0;
+    padding:0;
+    
+
+    
+}
+
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width:100%;
+    height: 15px;
+    background-color: black ;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    
+}
+
+.menu{
+    background-color: black;
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    color: white; 
+    font-family: 'Anton', sans-serif;
+    height:50px;  
+    text-align: center;
+    padding:5px;
+
+
+  }
+
+.menu li{
+    display: inline-block;
+
+    
+    
+  }
+.menu li a{
+  color: white;
+  text-decoration: none;
+  font-family: 'Anton', sans-serif;
+
+}  
+
+
+
+
+
+
+
